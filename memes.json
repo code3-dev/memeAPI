@@ -3,13 +3,15 @@
         "type": "image",
         "image": "https://shahreajib.github.io/m/IMG_20240508_234803_211.jpg",
         "title": "خودشه",
-        "description": ""
+        "description": "",
+        "height": 300
     },
     {
         "type": "video",
         "image": "video poster",
         "video": "https://example.com/video1.mp4",
         "title": "A test video meme",
-        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel felis ac velit tristique tincidunt."
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel felis ac velit tristique tincidunt.",
+        "height": 300
     }
 ]
