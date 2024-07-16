@@ -1,0 +1,14 @@
+[
+    {
+        "type": "image",
+        "image": "https://example.com/meme1.png",
+        "title": "A test meme",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel felis ac velit tristique tincidunt."
+    },
+    {
+        "type": "video",
+        "video": "https://example.com/video1.mp4",
+        "title": "A test video meme",
+        "description": "lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel felis ac velit tristique tincidunt."
+    }
+]
